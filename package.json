@@ -1,0 +1,22 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "Ejercicios de practica JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauty95/practiceJS.git"
+  },
+  "author": "Lautaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauty95/practiceJS/issues"
+  },
+  "homepage": "https://github.com/lauty95/practiceJS#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
